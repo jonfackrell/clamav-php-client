@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        
         "clue/socket-raw": "^1.3"
     },
     "require-dev": {
@@ -19,11 +18,6 @@
     "autoload": {
         "psr-4": {
             "JDecool\\ClamAV\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "JDecool\\ClamAV\\Tests\\": "tests/phpunit"
         }
     }
 }
