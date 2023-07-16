@@ -1,5 +1,5 @@
 {
-    "name": "jdecool/clamav-client",
+    "name": "jonfackrell/clamav-client",
     "description": "ClamAV PHP deamon client",
     "type": "library",
     "license": "MIT",
